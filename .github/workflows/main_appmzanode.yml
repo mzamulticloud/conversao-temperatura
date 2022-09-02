@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'appmzanode'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9333361AA3E84BEE95AF082C899DCAA5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5924E6F6C254527A1846DC843DFBD44 }}
           package: .
